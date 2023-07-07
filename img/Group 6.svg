@@ -1,0 +1,6 @@
+<svg width="60" height="50" viewBox="0 0 60 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 6">
+<path id="Rectangle 7" d="M0 40C0 45.5228 4.47715 50 10 50H50C55.5228 50 60 45.5228 60 40V10C60 4.47715 55.5228 0 50 0H10C4.47715 0 0 4.47715 0 10V40Z" fill="#644DEA"/>
+<path id="Vector" d="M30 30.2L35.2 25M35.2 25L30 19.8M35.2 25H24.8M43 25C43 32.1797 37.1797 38 30 38C22.8203 38 17 32.1797 17 25C17 17.8203 22.8203 12 30 12C37.1797 12 43 17.8203 43 25Z" stroke="#EDEDED" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
